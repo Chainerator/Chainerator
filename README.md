@@ -1,3 +1,4 @@
 # Decentralized Charity Client
 
-The Decentralized Charity Service on Ethereum
+Flexible Blockchain Open Source Framework
+Using Consensus Modularization
